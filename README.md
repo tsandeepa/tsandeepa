@@ -19,7 +19,7 @@
 </a><a href="https://fb.com/tsandeepa" target="blank">
 <img align="center" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/facebook.png?raw=true" alt="tsandeepa" height="20" width="20" />
 </a>
-</a><a href="https://fb.com/tsandeepa" target="blank">
+</a><a href="https://tharindusandeepa.netlify.app/" target="blank">
 <img align="center" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/globe.png?raw=true" alt="tsandeepa" height="20" width="20" />
 </a>
 </p>
