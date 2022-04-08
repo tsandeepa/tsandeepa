@@ -24,31 +24,31 @@
 
 ### Tech Stack
 
-<p>
-<img align="left" alt="Visual Studio Code" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
-<img align="left" alt="Visual Studio Code" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-1.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
-<img align="left" alt="Visual Studio Code" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-2.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
-<img align="left" alt="Visual Studio Code" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-3.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
-<img align="left" alt="Visual Studio Code" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-9.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
-<img align="left" alt="Visual Studio Code" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-10.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
-<img align="left" alt="Visual Studio Code" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-13.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
-<img align="left" alt="Visual Studio Code" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-11.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
-<img align="left" alt="Visual Studio Code" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-12.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
-<img align="left" alt="Visual Studio Code" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-14.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
-<img align="left" alt="Visual Studio Code" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-15.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
-<img align="left" alt="Visual Studio Code" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-19.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
-<img align="left" alt="Visual Studio Code" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-16.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
-<img align="left" alt="Visual Studio Code" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-17.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
-<img align="left" alt="Visual Studio Code" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-18.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
-<img align="left" alt="Visual Studio Code" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-20.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
-<img align="left" alt="Visual Studio Code" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-21.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
-<img align="left" alt="Visual Studio Code" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-22.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
-<img align="left" alt="Visual Studio Code" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-23.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
-<img align="left" alt="Visual Studio Code" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-4.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
-<img align="left" alt="Visual Studio Code" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-5.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
-<img align="left" alt="Visual Studio Code" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-6.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
-<img align="left" alt="Visual Studio Code" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-7.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
-<img align="left" alt="Visual Studio Code" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-8.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
+<p style="overflow:hidden">
+<img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
+<img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-1.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
+<img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-2.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
+<img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-3.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
+<img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-9.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
+<img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-10.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
+<img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-13.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
+<img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-11.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
+<img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-12.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
+<img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-14.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
+<img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-15.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
+<img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-19.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
+<img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-16.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
+<img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-17.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
+<img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-18.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
+<img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-20.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
+<img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-21.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
+<img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-22.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
+<img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-23.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
+<img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-4.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
+<img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-5.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
+<img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-6.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
+<img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-7.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
+<img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-8.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
 </p>
 
 
