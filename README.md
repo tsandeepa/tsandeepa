@@ -45,8 +45,7 @@
 <img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-22.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
 <img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-23.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
 <img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-4.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
-<img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-5.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
-<img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-6.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
+
 
 </div>
 
