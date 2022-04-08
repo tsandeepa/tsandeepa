@@ -13,11 +13,11 @@
 ### Connect with me
 <p align="left">
 <a href="https://twitter.com/tharindusandee2" target="blank">
-<img align="center" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/twitter.png?raw=true" alt="tharindusandee2" height="20" width="30" />
+<img align="center" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/twitter.png?raw=true" alt="tharindusandee2" height="20" width="20" />
 </a><a href="https://linkedin.com/in/tharindu-sandeepa-21683179" target="blank">
-<img align="center" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/linkedin.png?raw=true" alt="tharindu-sandeepa-21683179" height="20" width="30" />
+<img align="center" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/linkedin.png?raw=true" alt="tharindu-sandeepa-21683179" height="20" width="20" />
 </a><a href="https://fb.com/tsandeepa" target="blank">
-<img align="center" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/facebook.png?raw=true" alt="tsandeepa" height="20" width="30" />
+<img align="center" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/facebook.png?raw=true" alt="tsandeepa" height="20" width="20" />
 </a>
 </a><a href="https://fb.com/tsandeepa" target="blank">
 <img align="center" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/globe.png?raw=true" alt="tsandeepa" height="20" width="20" />
