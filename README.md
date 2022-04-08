@@ -24,7 +24,7 @@
 
 ### Tech Stack
 
-
+<p>
 <img align="left" alt="Visual Studio Code" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204.png?raw=true" style="padding-bottom:10px; padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-1.png?raw=true" style="padding-bottom:10px; padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-2.png?raw=true" style="padding-bottom:10px; padding-right:10px;" />
@@ -42,7 +42,6 @@
 <img align="left" alt="Visual Studio Code" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-18.png?raw=true" style="padding-bottom:10px; padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-20.png?raw=true" style="padding-bottom:10px; padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-21.png?raw=true" style="padding-bottom:10px; padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-21.png?raw=true" style="padding-bottom:10px; padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-22.png?raw=true" style="padding-bottom:10px; padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-23.png?raw=true" style="padding-bottom:10px; padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-4.png?raw=true" style="padding-bottom:10px; padding-right:10px;" />
@@ -50,12 +49,24 @@
 <img align="left" alt="Visual Studio Code" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-6.png?raw=true" style="padding-bottom:10px; padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-7.png?raw=true" style="padding-bottom:10px; padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-8.png?raw=true" style="padding-bottom:10px; padding-right:10px;" />
-<br>
-
-###<img  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tsandeepa&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+</p>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tsandeepa&layout=compact"/>
+
+
+<div style="clear:both;">
+<p>Git Status</p>
+<img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tsandeepa&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<p>Languages</p>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=tsandeepa&layout=compact"/>
+
+</div>
+
+
+
+
+
+
 
 
 
