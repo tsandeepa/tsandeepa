@@ -24,7 +24,7 @@
 
 ### Tech Stack
 
-<div style="overflow:hidden">
+<div style="clear:both">
 <img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
 <img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-1.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
 <img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-2.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
