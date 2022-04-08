@@ -24,7 +24,7 @@
 
 ### Tech Stack
 
-<p style="overflow:hidden">
+<div style="overflow:hidden">
 <img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
 <img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-1.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
 <img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-2.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
@@ -47,9 +47,8 @@
 <img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-4.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
 <img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-5.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
 <img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-6.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
-<img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-7.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
-<img align="left" alt="" width="20px" src="https://github.com/tsandeepa/tsandeepa/blob/main/iocns/image%204-8.png?raw=true" style="padding-bottom:10px; padding-right:5px;" />
-</p>
+
+</div>
 
 
 
