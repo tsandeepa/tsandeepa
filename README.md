@@ -1,7 +1,7 @@
 # Hi there,im Tharindu - 👋 
 
 
-## I'm an UI/UX Engineer
+## I'm a UI/UX Engineer
 
 
 - 🐱‍👤 I’m currently learning frontend frameworks 
