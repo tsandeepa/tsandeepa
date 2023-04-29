@@ -1,4 +1,4 @@
-# Hi there,im Tharindu - 👋 
+# Hi there, Im Tharindu - 👋 
 
 
 ## I'm a UI/UX Engineer
